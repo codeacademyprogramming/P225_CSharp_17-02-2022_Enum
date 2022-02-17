@@ -1,0 +1,14 @@
+C:\Users\memme\Desktop\P225\Task\P225Enum\bin\Debug\netcoreapp3.1\P225Enum.exe
+C:\Users\memme\Desktop\P225\Task\P225Enum\bin\Debug\netcoreapp3.1\P225Enum.deps.json
+C:\Users\memme\Desktop\P225\Task\P225Enum\bin\Debug\netcoreapp3.1\P225Enum.runtimeconfig.json
+C:\Users\memme\Desktop\P225\Task\P225Enum\bin\Debug\netcoreapp3.1\P225Enum.runtimeconfig.dev.json
+C:\Users\memme\Desktop\P225\Task\P225Enum\bin\Debug\netcoreapp3.1\P225Enum.dll
+C:\Users\memme\Desktop\P225\Task\P225Enum\bin\Debug\netcoreapp3.1\P225Enum.pdb
+C:\Users\memme\Desktop\P225\Task\P225Enum\obj\Debug\netcoreapp3.1\P225Enum.csproj.AssemblyReference.cache
+C:\Users\memme\Desktop\P225\Task\P225Enum\obj\Debug\netcoreapp3.1\P225Enum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\memme\Desktop\P225\Task\P225Enum\obj\Debug\netcoreapp3.1\P225Enum.AssemblyInfoInputs.cache
+C:\Users\memme\Desktop\P225\Task\P225Enum\obj\Debug\netcoreapp3.1\P225Enum.AssemblyInfo.cs
+C:\Users\memme\Desktop\P225\Task\P225Enum\obj\Debug\netcoreapp3.1\P225Enum.csproj.CoreCompileInputs.cache
+C:\Users\memme\Desktop\P225\Task\P225Enum\obj\Debug\netcoreapp3.1\P225Enum.dll
+C:\Users\memme\Desktop\P225\Task\P225Enum\obj\Debug\netcoreapp3.1\P225Enum.pdb
+C:\Users\memme\Desktop\P225\Task\P225Enum\obj\Debug\netcoreapp3.1\P225Enum.genruntimeconfig.cache
